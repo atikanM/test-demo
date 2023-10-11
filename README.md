@@ -1,8 +1,7 @@
-# DEMO Repo
+# AWS02
+CICD with Docker in AWS
 
-...
-
-
-## Local Development
-
-....
+Cluster
+task
+Container
+ Apichon-web-service
